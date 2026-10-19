@@ -16,8 +16,6 @@ A Wear OS companion app for students who want quick access to their campus infor
 
 ## Screenshots
 
-Screenshots of the app running on a Wear OS device will be added here.
-
 <p align="center">
   <img src="screenshots/Screenshot_1.png" width="160" alt="MyCampus home screen" />
   <img src="screenshots/Screenshot_2.png" width="160" alt="MyCampus attendance screen" />
