@@ -12,7 +12,7 @@ A Wear OS companion app for students who want quick access to their campus infor
 ## Compatibility
 
 - Wear OS smartwatches
-- A compatible student account and campus portal are required for supported features.
+- A compatible student account with parents login and campus portal are required for supported features.
 
 ## Screenshots
 
